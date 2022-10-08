@@ -1,0 +1,9 @@
+13:08:20 - methods.ConnectThreadMonitor:run:21 - Запущен потоковый обработчик
+13:08:20 - methods.ConnectThreadMonitor:run:34 - SERVER_OK: ['SERVER_OK', 'Успешное подключение к чату!', b'2gBLaAEmZ_DInxqki14oS88gLNylRYGqMUBZYsbcLSA=']
+13:08:20 - __main__:signal_handler:189 - ['SERVER_OK', 'Успешное подключение к чату!', b'2gBLaAEmZ_DInxqki14oS88gLNylRYGqMUBZYsbcLSA=']
+13:09:04 - methods.ConnectThreadMonitor:run:21 - Запущен потоковый обработчик
+13:09:04 - methods.ConnectThreadMonitor:run:34 - SERVER_OK: ['SERVER_OK', 'Успешное подключение к чату!', b'2gBLaAEmZ_DInxqki14oS88gLNylRYGqMUBZYsbcLSA=']
+13:09:04 - __main__:signal_handler:189 - ['SERVER_OK', 'Успешное подключение к чату!', b'2gBLaAEmZ_DInxqki14oS88gLNylRYGqMUBZYsbcLSA=']
+13:09:07 - methods.ConnectThreadMonitor:run:21 - Запущен потоковый обработчик
+13:09:07 - methods.ConnectThreadMonitor:run:34 - SERVER_OK: ['SERVER_OK', 'Успешное подключение к чату!', b'2gBLaAEmZ_DInxqki14oS88gLNylRYGqMUBZYsbcLSA=']
+13:09:07 - __main__:signal_handler:189 - ['SERVER_OK', 'Успешное подключение к чату!', b'2gBLaAEmZ_DInxqki14oS88gLNylRYGqMUBZYsbcLSA=']
